@@ -1,5 +1,4 @@
 # Guide d'inspection de code / Bonnes pratiques
---
 ### L'intérêt de l'inspection de code pour l'équipe
 
 Pratiquer l'inspection de code dans notre workflow fournit plusieurs avantages à toute l'équipe:
